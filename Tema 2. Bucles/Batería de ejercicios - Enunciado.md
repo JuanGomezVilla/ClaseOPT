@@ -23,7 +23,7 @@
     ```python
     alumnos = ["Ana", "Luis", "Marta", "Pablo"]
     ```
-10. Contar cuántas veces aparece una letra en una palabra
+10. Contar cuántas veces aparece la letra *a* en una palabra
     ```python
     palabra = "cargador"
     ```
@@ -59,7 +59,7 @@
 6. Sumar números hasta que se introduzca un cero
 7. Pedir palabras hasta escribir `salir`
 8. Repetir una pregunta hasta recibir una respuesta válida
-9. Mostrar los números pares hasta un límite
+9. Mostrar los números pares hasta un límite definido por el usuario en consola
 10. Multiplicar un número por dos hasta llegar a 100
 11. Permitir un máximo de tres intentos de contraseña
 12. Contar números hasta introducir uno negativo
